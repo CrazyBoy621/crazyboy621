@@ -37,6 +37,8 @@ Currently, I am working on AI-powered consumer applications and scalable mobile-
 
 📫 **Email:** shohjahon@zbekz.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodrakhmatof" alt="Bekzod" /> </p> 
+
 <!--
 This repository is special because its README.md appears on my GitHub profile.
 -->
